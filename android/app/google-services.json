@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337976137801",
+    "firebase_url": "https://prokitkitchens-9318b.firebaseio.com",
+    "project_id": "prokitkitchens-9318b",
+    "storage_bucket": "prokitkitchens-9318b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337976137801:android:493d47c87fc1c9c54d0798",
+        "android_client_info": {
+          "package_name": "com.prokit.kitchens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337976137801-qvfua1mko3clrsfi19ouhsifr65bni5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8jIPf0-CcDZ4BBwJ0GdF4mUHGD6N6Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337976137801-qvfua1mko3clrsfi19ouhsifr65bni5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337976137801-a47rlsrthpc8n3er3csoiod3chru1015.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prokit.kitchens"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
